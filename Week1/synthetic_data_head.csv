@@ -1,0 +1,6 @@
+age,workclass,fnlwgt,education,education-num,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,income
+31,Private,368977,7th-8th,4,Never-married,Craft-repair,Not-in-family,Asian-Pac-Islander,Male,-30,-4,31,United-States,<=50K
+43,Private,160694,Some-college,9,Married-civ-spouse,Machine-op-inspct,Wife,White,Male,-68,-7,40,United-States,<=50K
+18,Private,314712,Prof-school,10,Widowed,Machine-op-inspct,Other-relative,White,Female,-67,4,53,United-States,<=50K
+44,Self-emp-not-inc,85951,Some-college,9,Never-married,Other-service,Not-in-family,White,Male,51,-2,40,United-States,>50K
+52,Private,80164,Some-college,9,Divorced,Craft-repair,Own-child,White,Male,-112,-2,40,United-States,>50K
