@@ -1,0 +1,6 @@
+pandas==1.4.0
+numpy==1.22.0
+scikit-learn==1.0
+ctgan==0.7.1
+pyod==1.0.7
+great_expectations==0.15.50
